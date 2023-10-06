@@ -4,11 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/newrelic-experimental/nr-custom-attr-data-aggregator?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/newrelic-experimental/nr-custom-attr-data-aggregator?style=social)
 
-![GitHub all releases](https://img.shields.io/github/downloads/newrelic-experimental/nr-custom-attr-data-aggregator/total)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/newrelic-experimental/nr-custom-attr-data-aggregator)
 ![GitHub last commit](https://img.shields.io/github/last-commit/newrelic-experimental/nr-custom-attr-data-aggregator)
-![GitHub Release Date](https://img.shields.io/github/release-date/newrelic-experimental/nr-custom-attr-data-aggregator)
-
 
 ![GitHub issues](https://img.shields.io/github/issues/newrelic-experimental/nr-custom-attr-data-aggregator)
 ![GitHub issues closed](https://img.shields.io/github/issues-closed/newrelic-experimental/nr-custom-attr-data-aggregator)

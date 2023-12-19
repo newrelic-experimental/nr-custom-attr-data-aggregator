@@ -1,7 +1,7 @@
 const TASKS = [{
     "id":"uniqExperiements",
     "name":"Unique Experiements",
-    "accountId":"3491187",
+    "accountId":"3428733",
     "selector":"experiments",
     "delimiter": ",",
     "assignment": "=",
@@ -11,7 +11,7 @@ const TASKS = [{
 {
     "id":"uniqFoods",
     "name":"Unique Foods",
-    "accountId":"3491187",
+    "accountId":"3428733",
     "selector":"food",
     "delimiter": "|",
     "assignment": ":",
@@ -22,7 +22,7 @@ const TASKS = [{
 // Configurations
 const NAMESPACE = "dashFilterData";         // event details are prefixed with this, best to leave as is
 const NEWRELIC_DC = "US"                    // datacenter for account - US or EU
-const ACCOUNT_ID = "3491187"                // Account ID (required if ingesting events)
+const ACCOUNT_ID = "3428733"                // Account ID (required if ingesting events)
 let INSERT_KEY = $secure ? $secure.YOUR_INGEST_KEY_CRED_NAME : null     // Ingest key, stored in secure credential
 let QUERY_KEY =  $secure ? $secure.YOUR_QUERY_KEY_CRED_NAME  : null     // User query key, stored in secure credential
 
